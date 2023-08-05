@@ -43,11 +43,11 @@ To install the Instagram Scam Scanner Chrome Extension, please follow these step
 
 ## Contributing
 
-We welcome contributions to the Instagram Scam Scanner Chrome Extension! If you encounter any issues, have suggestions for improvements, or would like to contribute to the development, feel free to reach out via email: [mailto:stefan@erben.eu](stefan@erben.eu)
+We welcome contributions to the Instagram Scam Scanner Chrome Extension! If you encounter any issues, have suggestions for improvements, or would like to contribute to the development, feel free to reach out via email: [stefan@erben.eu](stefan@erben.eu)
 
 ## License
 
 The Instagram Scam Scanner Chrome Extension is released under the MIT License. Feel free to use, modify, and distribute this extension in accordance with the terms of the license.
 
 ## Contact
-If you have any questions, feedback, or inquiries, please contact me at [mailto:stefan@erben.eu](stefan@erben.eu).
+If you have any questions, feedback, or inquiries, please contact me at [stefan@erben.eu](stefan@erben.eu).
