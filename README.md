@@ -2,12 +2,11 @@
 
 ScamSpot is a powerful tool designed to enhance your online safety and protect you from spam and scam comments on Instagram, particularly for  finance-related accounts & content.
 
-
 ## Related repositories
-- https://github.com/stefanerben/ig_scraper
-- https://github.com/stefanerben/ig_spam_ml_models
-- https://github.com/stefanerben/ig_spam_api
-
+- [https://github.com/ScamSpot/scamspot_ml-models/](https://github.com/ScamSpot/scamspot_ml-models/)
+- [https://github.com/ScamSpot/scamspot_ig-comment-scraper](https://github.com/ScamSpot/scamspot_ig-comment-scraper)
+- [https://github.com/ScamSpot/scamspot_api/](https://github.com/ScamSpot/scamspot_api/)
+- [https://github.com/ScamSpot/scamspot_chrome-extension/](https://github.com/ScamSpot/scamspot_chrome-extension/)
 
 ## Features
 - Visual identification: The extension visually highlights spam and scam comments, making them easily distinguishable from genuine comments.
