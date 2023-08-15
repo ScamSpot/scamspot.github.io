@@ -2,15 +2,9 @@
 
 ScamSpot is a powerful tool designed to enhance your online safety and protect you from spam and scam comments on Instagram, particularly for  finance-related accounts & content.
 
-## Related repositories
-- [https://github.com/ScamSpot/scamspot_ml-models/](https://github.com/ScamSpot/scamspot_ml-models/)
-- [https://github.com/ScamSpot/scamspot_ig-comment-scraper](https://github.com/ScamSpot/scamspot_ig-comment-scraper)
-- [https://github.com/ScamSpot/scamspot_api/](https://github.com/ScamSpot/scamspot_api/)
-- [https://github.com/ScamSpot/scamspot_chrome-extension/](https://github.com/ScamSpot/scamspot_chrome-extension/)
+[![ScamSpot Demo Video](https://scamspot.github.io/scamspot-youtube-preview.gif)](https://youtu.be/dGyNZek-Bgg)
 
-## Features
-- Visual identification: The extension visually highlights spam and scam comments, making them easily distinguishable from genuine comments.
-- Two modes: You have the option to choose between two modes: marking spam and scam content or hiding it completely. Change the settings in the 'content.js file
+Watch the full video [here](https://youtu.be/dGyNZek-Bgg).
 
 ## Installation
 
@@ -41,9 +35,20 @@ To install the Instagram Scam Scanner Chrome Extension, please follow these step
 - You can switch between two modes by accessing the extension's settings in the file 'scripts/content.js'.
 - You can visit a post such as this one to test results: https://www.instagram.com/p/CsLCoRIvTNO/
 
+
+## Features
+- Visual identification: The extension visually highlights spam and scam comments, making them easily distinguishable from genuine comments.
+- Two modes: You have the option to choose between two modes: marking spam and scam content or hiding it completely. Change the settings in the 'content.js file
+
+## Related repositories
+- [https://github.com/ScamSpot/scamspot_ml-models/](https://github.com/ScamSpot/scamspot_ml-models/)
+- [https://github.com/ScamSpot/scamspot_ig-comment-scraper](https://github.com/ScamSpot/scamspot_ig-comment-scraper)
+- [https://github.com/ScamSpot/scamspot_api/](https://github.com/ScamSpot/scamspot_api/)
+- [https://github.com/ScamSpot/scamspot_chrome-extension/](https://github.com/ScamSpot/scamspot_chrome-extension/)
+
 ## Contributing
 
-We welcome contributions to the Instagram Scam Scanner Chrome Extension! If you encounter any issues, have suggestions for improvements, or would like to contribute to the development, feel free to reach out via email: [stefan@erben.eu](stefan@erben.eu)
+We welcome contributions to ScamSpot! If you encounter any issues, have suggestions for improvements, or would like to contribute to the development, feel free to reach out via email: [stefan@erben.eu](stefan@erben.eu)
 
 ## License
 
