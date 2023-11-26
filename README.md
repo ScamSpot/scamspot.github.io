@@ -12,7 +12,7 @@ To install the Instagram Scam Scanner Chrome Extension, please follow these step
 
 ### Step 1: Download the Chrome extension ZIP file:
 
-1. Download the ZIP file: [ZIP File](https://github.com/ScamSpot/scamspot_chrome-extension/blob/main/spamspot_chrome-extension_v1.2.zip)
+1. Download the ZIP file: [ZIP File](https://github.com/ScamSpot/scamspot_chrome-extension/blob/main/spamspot_chrome-extension_v1.3.zip)
 2. Extract the downloaded ZIP file to your desired location on your computer.
 
 ### Step 2: Install the Chrome extension:
