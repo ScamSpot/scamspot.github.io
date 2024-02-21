@@ -6,6 +6,9 @@ ScamSpot is a powerful tool designed to enhance your online safety and protect y
 
 Watch the full video [here](https://youtu.be/dGyNZek-Bgg).
 
+## Paper
+You can find the preprint on [ArXiv](https://arxiv.org/abs/2402.08869).
+
 ## Installation
 
 To install the Instagram Scam Scanner Chrome Extension, please follow these steps:
