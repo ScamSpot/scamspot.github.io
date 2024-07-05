@@ -1,8 +1,8 @@
 # ScamSpot
 
-ScamSpot is a powerful tool designed to enhance your online safety and protect you from spam and scam comments on Instagram, particularly for  finance-related accounts & content.
+ScamSpot is a powerful tool designed to enhance your online safety and protect you from spam and scam comments on Instagram, particularly for  finance-related accounts & content. It was created by Stefan Erben and Andreas Waldis.
 
-[![ScamSpot Demo Video](https://scamspot.github.io/scamspot-youtube-preview.gif)](https://youtu.be/dGyNZek-Bgg)
+[![ScamSpot Demo Video by Stefan Erben](https://scamspot.github.io/scamspot-youtube-preview.gif)](https://youtu.be/dGyNZek-Bgg)
 
 Watch the full video [here](https://youtu.be/dGyNZek-Bgg).
 
@@ -51,7 +51,7 @@ To install the Instagram Scam Scanner Chrome Extension, please follow these step
 
 ## Contributing
 
-We welcome contributions to ScamSpot! If you encounter any issues, have suggestions for improvements, or would like to contribute to the development, feel free to reach out via email: [stefan@erben.eu](stefan@erben.eu)
+We welcome contributions to ScamSpot! If you encounter any issues, have suggestions for improvements, or would like to contribute to the development, feel free to reach out via email: [office@stefanerben.com](office@stefanerben.com)
 
 ## License
 
